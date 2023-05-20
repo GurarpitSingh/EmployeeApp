@@ -5,7 +5,7 @@ Made using MERN/
 
 .env file is given for evaluation purposes.<br>
 
-Clone it in repository EmployeeApp.
+Clone it in repository EmployeeApp.<br>
 Steps to Install:
 1. The root directory contains two directories:
 	Client
