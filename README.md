@@ -18,7 +18,7 @@ Steps to Install:
 5. Run the Development server:
 	Go to terminal > cd client > npm run dev
 	Go to terminal > cd server > npm start
-6 The backend is powered in 3000 port.
+6. The backend is powered in 3000 port.
 7. All the links to endpoints are in Routes folder of Server.
 
 
